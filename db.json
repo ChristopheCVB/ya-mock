@@ -1,5 +1,5 @@
 {
-	"positions" : {
+	"positions.jsonapi" : {
         "data": [{
             "type": "positions",
             "id": "1",
